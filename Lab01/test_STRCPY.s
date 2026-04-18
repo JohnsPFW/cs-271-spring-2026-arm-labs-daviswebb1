@@ -26,7 +26,7 @@ _start:
     MOVZ    X4, #0          // sum = 0
     MOVZ    X5, #0          // iteration counter = 0
 
-// ===================== LOOP =====================
+// ===================== LOOP ===================
 
 sum_loop:
     // Add counter into sum
